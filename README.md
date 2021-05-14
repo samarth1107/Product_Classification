@@ -1,4 +1,4 @@
-# Product Classification (Task 3 NLP) for MIDAS Intership 2021 @ IIITD
+# Product Classification
   
   
 ## Technology/package used:-
